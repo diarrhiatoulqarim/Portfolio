@@ -65,3 +65,4 @@ st.write("- Réalisation d’une carte des types de sols de la région de Tambac
 st.write("- Réalisation de petites applications de calcul avec Python")
 st.write("- Relevés de points avec Mobile Topographe (G15 – Massalikul Jinaan)")
 st.write("- Présentation en anglais sur Windows et MacOS")
+st.write("- Conception de plan architechtural(RDC, Terrasse, Etage et Masse")
